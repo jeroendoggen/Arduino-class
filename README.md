@@ -1,23 +1,22 @@
-## Getting Started
- * [Ladyada: Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
- * [Good Practice Guidlines](http://code.google.com/p/arduino-class/wiki/GeneralGoodPractice)
-
 ## Arduino Programming
+### Getting Started
+ * [Ladyada: Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
+ * [Good Practice Guidelines](http://code.google.com/p/arduino-class/wiki/GeneralGoodPractice)
 
 ### Intermediate
  * [Object Oriented Embedded Programming](http://code.google.com/p/arduino-class/wiki/ObjectOrientedEmbeddedProgramming)
  * [Classes Within Classes](http://code.google.com/p/arduino-class/wiki/ClassesWithinClasses)
  * [Linking Nested Libraries](http://code.google.com/p/arduino-class/wiki/LinkingNestedLibraries)
  * [Casting (c vs c++ vs c#)](http://code.google.com/p/arduino-class/wiki/Casting)
+ * [Coding Style](http://code.google.com/p/arduino-class/wiki/CodingStyle)
+ * [Alternative Build Methods](http://code.google.com/p/arduino-class/wiki/AlternativeBuildMethods)
+ * [Coding Standards](http://code.google.com/p/arduino-class/wiki/CodingStandards)
 
 ### Advanced
  * [Protothreads](http://code.google.com/p/arduino-class/wiki/ProtoThreads)
  * [Memory Allocation](http://code.google.com/p/arduino-class/wiki/MemoryAllocation)
- * [Alternative Build Methods](http://code.google.com/p/arduino-class/wiki/AlternativeBuildMethods)
  * [Static Code Analysis](http://code.google.com/p/arduino-class/wiki/StaticCodeAnalysis)
  * [Debugging AVR Dynamic Memory Allocation](http://andybrown.me.uk/wk/2011/01/01/debugging-avr-dynamic-memory-allocation)
- * [Coding Style](http://code.google.com/p/arduino-class/wiki/CodingStyle)
- * [Coding Standards](http://code.google.com/p/arduino-class/wiki/CodingStandards)
 
 ##  Hardware
  * [ATMega328P Datasheet (pdf)](http://www.atmel.com/Images/doc8025.pdf)
