@@ -1,8 +1,3 @@
-Arduino Class
-=============
-
-Tutorials, Articles and Code Samples for an Embedded Systems Class using the Arduino Platform.
-
 ## Getting Started
  * [Ladyada: Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
  * [Good Practice Guidlines](http://code.google.com/p/arduino-class/wiki/GeneralGoodPractice)
