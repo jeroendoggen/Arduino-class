@@ -1,0 +1,31 @@
+##############################################
+# Syntax Coloring Map For Ardumoto Library   #
+##############################################
+
+##############################################
+# Datatypes (KEYWORD1)
+##############################################
+
+Ardumoto  KEYWORD1
+
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+
+begin KEYWORD2
+beginMotorA KEYWORD2
+beginMotorB KEYWORD2
+setSpeed  KEYWORD2
+fadeSpeed KEYWORD2
+stop  KEYWORD2
+brake KEYWORD2
+
+###################################################
+# Objects (KEYWORD3)
+###################################################
+
+Moto  KEYWORD3
+
+##############################################
+# Constants (LITERAL1)
+##############################################
