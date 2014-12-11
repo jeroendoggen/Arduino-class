@@ -2,21 +2,21 @@
 ### Getting Started
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jeroendoggen/Arduino-class?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  * [Ladyada: Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
- * [Good Practice Guidelines](http://code.google.com/p/arduino-class/wiki/GeneralGoodPractice)
+ * [Good Practice Guidelines](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/GeneralGoodPractice.md)
 
 ### Intermediate
- * [Object Oriented Embedded Programming](http://code.google.com/p/arduino-class/wiki/ObjectOrientedEmbeddedProgramming)
- * [Classes Within Classes](http://code.google.com/p/arduino-class/wiki/ClassesWithinClasses)
- * [Linking Nested Libraries](http://code.google.com/p/arduino-class/wiki/LinkingNestedLibraries)
- * [Casting (c vs c++ vs c#)](http://code.google.com/p/arduino-class/wiki/Casting)
- * [Coding Style](http://code.google.com/p/arduino-class/wiki/CodingStyle)
- * [Alternative Build Methods](http://code.google.com/p/arduino-class/wiki/AlternativeBuildMethods)
- * [Coding Standards](http://code.google.com/p/arduino-class/wiki/CodingStandards)
+ * [Object Oriented Embedded Programming](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/ObjectOrientedEmbeddedProgramming.md)
+ * [Classes Within Classes](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/ClassesWithinClasses.md)
+ * [Linking Nested Libraries](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/LinkingNestedLibraries.md)
+ * [Casting (c vs c++ vs c#)](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/Casting.md)
+ * [Coding Style](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/CodingStyle.md)
+ * [Alternative Build Methods](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/AlternativeBuildMethods.md)
+ * [Coding Standards](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/CodingStandards.md)
 
 ### Advanced
- * [Protothreads](http://code.google.com/p/arduino-class/wiki/ProtoThreads)
- * [Memory Allocation](http://code.google.com/p/arduino-class/wiki/MemoryAllocation)
- * [Static Code Analysis](http://code.google.com/p/arduino-class/wiki/StaticCodeAnalysis)
+ * [Protothreads](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/ProtoThreads.md)
+ * [Memory Allocation](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/MemoryAllocation.md)
+ * [Static Code Analysis](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/StaticCodeAnalysis.md)
  * [Debugging AVR Dynamic Memory Allocation](http://andybrown.me.uk/wk/2011/01/01/debugging-avr-dynamic-memory-allocation)
 
 ##  Hardware
