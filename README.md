@@ -1,6 +1,5 @@
 ## Arduino Programming
 ### Getting Started
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jeroendoggen/Arduino-class?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  * [Ladyada: Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
  * [Good Practice Guidelines](https://github.com/jeroendoggen/Arduino-class/tree/master/1_Theory/GeneralGoodPractice.md)
 
